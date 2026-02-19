@@ -1,0 +1,8 @@
+[phases.setup]
+nixPkgs = ["php82", "php82Extensions.sockets", "php82Extensions.json", "php82Extensions.mbstring"]
+
+[phases.build]
+cmds = ["mkdir -p /app/cache && chmod 777 /app/cache"]
+
+[start]
+cmd = "php -S 0.0.0.0:$PORT -t /app"

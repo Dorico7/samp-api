@@ -1,0 +1,19 @@
+{
+  "news": [
+    {
+      "title": "Bem-vindo ao Servidor!",
+      "description": "Nosso servidor acaba de abrir! Venha se divertir e fazer parte da nossa comunidade.",
+      "image": "SUA_URL_RAILWAY/imagens/news1.png"
+    },
+    {
+      "title": "Evento Especial",
+      "description": "Participe do evento desta semana e ganhe recompensas exclusivas!",
+      "image": "SUA_URL_RAILWAY/imagens/news2.png"
+    },
+    {
+      "title": "Novidades em Breve",
+      "description": "Estamos trabalhando em novos recursos incriveis. Fique ligado!",
+      "image": "SUA_URL_RAILWAY/imagens/news3.png"
+    }
+  ]
+}
