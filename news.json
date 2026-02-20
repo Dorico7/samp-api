@@ -3,17 +3,17 @@
     {
       "title": "Bem-vindo ao Servidor!👀",
       "description": "Nosso servidor acaba de entrar em versão Beta!🚀 venha fazer parte dos primeiros jogadores, se divertir e ajudar a construir a nossa comunidade desde o início.🚀",
-      "image": "SUA_URL_RAILWAY/imagens/news1.png"
+      "image": "https://samp-api-production.up.railway.app/news2.jpeg"
     },
     {
       "title": "Neon roleplay🌆",
       "description": "Aqui onde tudo começou… 🚀",
-      "image": "SUA_URL_RAILWAY/imagens/news2.png"
+      "image": "https://samp-api-production.up.railway.app/news1.jpeg"
     },
     {
       "title": "servidor em fase de desenvolvimento 👨‍💻🚀",
       "description": "Estamos trabalhando duro para trazer a melhor experiência para nossa comunidade! 🚀 Contamos com administração ativa 24 horas para garantir diversão, suporte e organização no servidor.",
-      "image": "SUA_URL_RAILWAY/imagens/news3.png"
+      "image": "https://samp-api-production.up.railway.app/news3.jpeg"
     }
   ]
 }
