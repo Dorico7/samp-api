@@ -2,6 +2,6 @@
   "client_config": {
     "version_code": 1,
     "url_launcher": "SUA_URL_RAILWAY/update.apk",
-    "url_cache_files": "SUA_URL_RAILWAY/generate_files.php"
+    "url_cache_files": "https://samp-api-production.up.railway.app/generate_files.php"
   }
 }
